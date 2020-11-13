@@ -5,7 +5,7 @@
 <p align="center">O desafio deste módulo é a recriação da pagina inicial da instagram usando flexbox.</p>
 
 <div align="center">
-    <img src="/img/imagem-site.png">
+    <img src="https://raw.githubusercontent.com/kleber86/dio-recriando-pagina-instagram/master/img/imagem-site.PNG">
 </div>
 
 ### :memo: Aulas
